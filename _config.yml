@@ -22,7 +22,7 @@ description: >- # used by seo meta and the atom feed
 "A space for my cybersecurity research, insights and thoughts"
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "scotchnvd.github.io"
+url: "https://scotchnvd.github.io"
 
 baseurl: ""
 
