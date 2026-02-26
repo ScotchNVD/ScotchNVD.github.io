@@ -16,7 +16,7 @@ timezone: Africa/Johannesburg
 
 title: ScotchNVD # the main title
 
-tagline: Security Analyst | Threat Hunter # it will display as the subtitle
+tagline: Threat Hunter | Security Analyst # it will display as the subtitle
 
 description: "A space for my cybersecurity research, insights and thoughts"
 # Fill in the protocol & hostname for your site.
@@ -88,7 +88,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode:  
+theme_mode:  dark
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
