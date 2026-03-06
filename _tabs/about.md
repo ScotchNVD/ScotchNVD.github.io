@@ -8,9 +8,9 @@ order: 4
 
 ```bash
 whoami
-ScotchNVD is Security Analyst focused on threat hunting & incident response by day, then adversary tradecraft and techniques by night.
+ScotchNVD is Security Analyst focused on threat hunting, incident response and adversary tradecraft.
 
-This blog documents my journey in the following topics:
+This blog documents my journey and lessons learned on various topics:
 - Research findings
 - Threat hunting methodologies
 - Training platform labs
