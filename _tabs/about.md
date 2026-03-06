@@ -4,43 +4,68 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
-### {: .wave} Hi , I'm Tebo (ScotchNVD)
+## <i class="fas fa-hand-wave"></i> Hi, I'm ScotchNVD
 
-`$ whoami` 
+```bash
+whoami
+CyberSecurity Specialist | Threat Hunter | Security Researcher
+```
 
-*  :ninja: **CyberSecurity Specialist** (Full-time SOC Ninja – Involved in Incident Response & Threat Hunting) 
-*  :performing_arts: __Red & Blue Team Operator__: Primarily enganged in both Defensive and Offensive security operations:
-   * Security Research
-   * Threat Hunting
-   * Bug Bounty Hunting
-   * Threat Emulation
+```markdown
+Security analyst focused on threat hunting, detection engineering, and adversary tradecraft.
 
----
+This blog documents:
+- Research findings
+- Threat hunting methodologies
+- Training platform labs
+- Security experiments
+```
 
-### :books: Current Focus Areas
+- <i class="fas fa-user-secret"></i> **CyberSecurity Specialist**  
+  *(Full-time SOC Ninja – Incident Response & Threat Hunting)*
 
-*   :bow_and_arrow: **CRTA (Certified Red Team Analyst) Exam**:
-*   :test_tube: **Training Platforms**: CyberDefenders | BlueTeamLabsOnline | TryHackMe | HackTheBox
-*   :notebook: **Student of the Game**: Regular lab journaling, Frequent reviewing of threat intel and detection reports, Always aiming to improve my investigative process.
+- <i class="fas fa-masks-theater"></i> **Red & Blue Team Operator**  
+  Primarily engaged in both defensive and offensive security operations:
 
-----
-
-### :scroll: Certifications & Qualifications
-
-*   :mortar_board: BSc Computer Science
-*   :briefcase: CompTIA A+ | Network+ | Security+
-*   :large_blue_diamond: Blue Team Level 1 (BTL1)
-*   :crossed_swords: _As of Mar 2026, Currently preparing for the Tryhackme - Security Analyst Level 1 Certification (A Security recap after a long while without training)_
+  - Security Research
+  - Threat Hunting
+  - Bug Bounty Hunting
+  - Threat Emulation
 
 ---
 
-### :brain: Mindset
+## <i class="fas fa-book"></i> Current Focus Areas
 
-*  :seedling: There's always something new to learn
-*  :warning: Curious about adversary tradecraft and techniques
-*  :shield: Improving Defensive tactics
-*  :dart: Honing The Art of Offensive Security.
- 
-> _"A Defender by heart with an Attacker's mindset"_
+- <i class="fas fa-crosshairs"></i> **CRTA (Certified Red Team Analyst) Exam**
+
+- <i class="fas fa-laptop-code"></i> **Training Platforms**  
+  CyberDefenders | BlueTeamLabsOnline | TryHackMe | HackTheBox
+
+- <i class="fas fa-brain"></i> **Student of the Game**  
+  Regular lab journaling, reviewing threat intelligence, and continuously refining investigative techniques.
+
+---
+
+## <i class="fas fa-scroll"></i> Certifications & Qualifications
+
+- <i class="fas fa-graduation-cap"></i> **BSc Computer Science**
+
+- <i class="fas fa-briefcase"></i>  
+  CompTIA A+ | Network+ | Security+
+
+- <i class="fas fa-shield-alt"></i>  
+  Blue Team Level 1 (BTL1)
+
+- <i class="fas fa-swords"></i>  
+  *As of Mar 2026: Preparing for the TryHackMe Security Analyst Level 1 certification.*
+
+---
+
+## <i class="fas fa-brain"></i> Mindset
+
+- <i class="fas fa-seedling"></i> There's always something new to learn
+- <i class="fas fa-search"></i> Curious about adversary tradecraft and techniques
+- <i class="fas fa-shield-alt"></i> Improving defensive tactics
+- <i class="fas fa-bullseye"></i> Honing the art of offensive security
+
+> **"A Defender by heart with an Attacker's mindset."**
