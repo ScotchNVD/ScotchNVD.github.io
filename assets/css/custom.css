@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "JetBrainsMono";
+  src: url("/assets/fonts/JetBrainsMono-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  font-family: "JetBrainsMono", monospace;
+}
+
+body,
+h1, h2, h3, h4, h5, h6,
+p,
+li,
+a,
+span,
+div,
+blockquote,
+code,
+pre {
+  font-family: "JetBrainsMono", monospace;
+}
