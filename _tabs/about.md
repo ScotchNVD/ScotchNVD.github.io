@@ -4,17 +4,13 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## <i class="fas fa-hand-wave"></i> Hi, I'm ScotchNVD
+## <i class="fas fa-hand-wave"></i> Hi, I'm ScotchNVD (Tebo)
 
 ```bash
 whoami
-CyberSecurity Specialist | Threat Hunter | Security Researcher
-```
+ScotchNVD is Security Analyst focused on threat hunting & incident response by day, then adversary tradecraft and techniques by night.
 
-```markdown
-Security analyst focused on threat hunting, detection engineering, and adversary tradecraft.
-
-This blog documents:
+This blog documents my journey in the following topics:
 - Research findings
 - Threat hunting methodologies
 - Training platform labs
@@ -50,14 +46,12 @@ This blog documents:
 
 - <i class="fas fa-graduation-cap"></i> **BSc Computer Science**
 
-- <i class="fas fa-briefcase"></i>  
+- <i class="fas fa-briefcase"></i> **Computing Fundamentals**
   CompTIA A+ | Network+ | Security+
 
-- <i class="fas fa-shield-alt"></i>  
-  Blue Team Level 1 (BTL1)
+- <i class="fas fa-shield-alt"></i> **Blue Team Level 1 (BTL1)**
 
-- <i class="fas fa-swords"></i>  
-  *As of Mar 2026: Preparing for the TryHackMe Security Analyst Level 1 certification.*
+- <i class="fas fa-swords"></i> *As of Mar 2026: Preparing for the TryHackMe Security Analyst Level 1 certification.*
 
 ---
 
