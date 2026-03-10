@@ -12,8 +12,8 @@ ScotchNVD is Security Analyst focused on threat hunting, incident response and a
 
 This blog documents my journey and lessons learned on various topics:
 - Research findings
-- Threat hunting methodologies
-- Training platform labs
+- Threat hunting 
+- Training labs
 - Security experiments
 ```
 
